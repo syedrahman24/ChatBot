@@ -22,13 +22,15 @@ The Chatbot developed here is based on HTML5, CSS3, PHP and MySQL. The automated
 
 ### Connect with me:
 
-[<img align="left"  width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 <br />
 
+
+[linkedin]: https://www.linkedin.com/in/syed-rahman-061795167/
 
 
 
