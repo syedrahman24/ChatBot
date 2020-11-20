@@ -31,6 +31,9 @@ A chatbot is an artificial intelligence (AI) software that can simulate a conver
 The Chatbot developed here is based on HTML5, CSS3, PHP and MySQL. The automated expected responses are being stored in the database that replies to the queries.
 
 # Working Snapshots
+![702](https://user-images.githubusercontent.com/57063763/99853786-9ee1d600-2ba9-11eb-874c-3394e842759c.png)
+![703](https://user-images.githubusercontent.com/57063763/99853787-a0130300-2ba9-11eb-8aaa-16a37fa861ec.png)
+![704](https://user-images.githubusercontent.com/57063763/99853789-a0ab9980-2ba9-11eb-9d1b-7a54e966770b.png)
 
 
 
